@@ -74,4 +74,3 @@ if __name__ == "__main__":
     json_file_name = "todo_all_employees.json"
     with open(json_file_name, 'w') as json_file:
         json.dump(json_data, json_file, indent=2)
-

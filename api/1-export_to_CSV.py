@@ -58,4 +58,3 @@ if __name__ == "__main__":
     with open(csv_file_name, 'w', newline='') as csv_file:
         csv_writer = csv.writer(csv_file, quoting=csv.QUOTE_NONNUMERIC)
         csv_writer.writerows(csv_data)
-

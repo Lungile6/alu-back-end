@@ -64,4 +64,3 @@ if __name__ == "__main__":
     for key, val in TOTAL_NUMBER_OF_TASKS.items():
         if val is True:
             print("\t {}".format(key))
-

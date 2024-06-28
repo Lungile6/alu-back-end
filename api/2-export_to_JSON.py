@@ -59,4 +59,3 @@ if __name__ == "__main__":
     with open(json_file_name, 'w') as json_file:
 
         json.dump(json_data, json_file)
-
