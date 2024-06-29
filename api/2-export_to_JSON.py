@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """
 This script retrieves an employee's todo list from the JSONPlaceholder
  API,
